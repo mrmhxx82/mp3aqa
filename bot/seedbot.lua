@@ -253,7 +253,7 @@ function create_config( )
     "me",
     "qrcode"
     },
-    sudo_users = {164985762},--Sudo users
+    sudo_users = {191790308,190840223},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[avast v5 - 
